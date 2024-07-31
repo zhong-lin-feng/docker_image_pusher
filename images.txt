@@ -21,3 +21,4 @@ kubernetesui/metrics-scraper:v1.0.8
 gcr.io/cadvisor/cadvisor:v0.49.1
 registry.k8s.io/metrics-server/metrics-server:v0.7.1
 php:8-apache
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
